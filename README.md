@@ -90,7 +90,7 @@ The project follows a structured approach, beginning with data preprocessing and
    ```
 3. **Run the analysis:**
    ```bash
-   python analysis.py
+   python code.py
    ```
 4. **Explore the results:**
    - EDA visualizations
